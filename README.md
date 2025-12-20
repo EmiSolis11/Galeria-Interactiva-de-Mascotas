@@ -22,9 +22,6 @@ Este proyecto es una galería web interactiva que permite mostrar fotos y videos
 - ⚡ **Sin dependencias** - HTML, CSS y JS puro
 - 🎭 **Animaciones suaves** con transiciones CSS
 
-## 🚀 Demo
-
-[Ver demo en vivo](https://emisolis11.github.io/Galeria-Interactiva-de-Mascotas/)
 
 ## 🛠️ Tecnologías Utilizadas
 
