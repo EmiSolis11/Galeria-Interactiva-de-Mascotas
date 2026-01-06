@@ -111,9 +111,6 @@ Las contribuciones son bienvenidas. Si tienes ideas para mejorar este proyecto:
 4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
 5. Abre un Pull Request
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 👤 Autor
 
